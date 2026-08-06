@@ -189,5 +189,3 @@ SMTP_USERNAME=your_brevo_smtp_username
 SMTP_PASSWORD=your_brevo_smtp_password
 EMAIL_FROM=noreply@ekarthub.com
 ```
-
-For complete technical specifications, consult [docs/README.md](./docs/README.md).
